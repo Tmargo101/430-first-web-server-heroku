@@ -19,7 +19,7 @@ const index = `
 		<title>First Node Page</title>
 	</head>
 	<body>
-		<h1>first node page</h1>
+		<h1>Tom's First Heroku Node Page</h1>
 	</body>
 </html>
 `;
